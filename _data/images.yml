@@ -1,0 +1,62 @@
+# _data/images.yml
+# - url: "assets/img/weaver-402521_1280.jpg"
+#   alt: "Image 1 Description"
+#   caption: "A beautiful weaver bird building its nest."
+#   year: 2023
+# - url: "assets/img/hummingbird-8013214_1280.jpg"
+#   alt: "Image 2 Description"
+#   caption: "A colorful hummingbird hovering near a flower."
+#   year: 2023
+# - url: "assets/img/smoke-298243_1280.jpg"
+#   alt: "Image 3 Description"
+#   caption: "Abstract smoke pattern forming in the air."
+#   year: 2023
+- url: "assets/img/cheetah.jpg"
+  alt: "Image 4 Description"
+  caption: "A serene landscape with mountains and trees."
+  year: 2024
+- url: "assets/img/owl.jpg"
+  alt: "Image 5 Description"
+  caption: "A close-up view of a blooming flower."
+  year: 2024
+- url: "assets/img/cheetah2.jpg"
+  alt: "Image 6 Description"
+  caption: "Colorful hot air balloons flying in the sky."
+  year: 2024
+- url: "assets/img/nawoo1.jpg"
+  alt: "Image 7 Description"
+  caption: "A peaceful scene of a lake at sunset."
+  year: 2023
+- url: "assets/img/nawoo2.jpg"
+  alt: "Image 8 Description"
+  caption: "An adorable puppy playing in the grass."
+  year: 2023
+- url: "assets/img/nawoo3.png"
+  alt: "Image 9 Description"
+  caption: "A stunning view of a city skyline at night."
+  year: 2023
+- url: "assets/img/붉은나리꽃.jpg"
+  alt: "Image 7 Description"
+  caption: "붉은 나리꽃"
+  year: 2023
+- url: "assets/img/숭고한조개.jpg"
+  alt: "Image 8 Description"
+  caption: "숭고한 조개"
+  year: 2023
+- url: "assets/img/만개순간.jpg"
+  alt: "Image 9 Description"
+  caption: "만개 순간"
+  year: 2023
+- url: "assets/img/temp4.jpg"
+  alt: "Image 7 Description"
+  caption: "A peaceful scene of a lake at sunset."
+  year: 2023
+- url: "assets/img/temp5.jpg"
+  alt: "Image 8 Description"
+  caption: "An adorable puppy playing in the grass."
+  year: 2023
+- url: "assets/img/temp1.png"
+  alt: "Image 9 Description"
+  caption: "A stunning view of a city skyline at night."
+  year: 2023
+# Add more images as needed

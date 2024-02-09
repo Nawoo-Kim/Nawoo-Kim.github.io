@@ -1,0 +1,33 @@
+---
+layout: page
+---
+<div class="profiles">
+  <article>
+    <div class="row">
+      {% if page.profiles %}
+        {% for profile in page.profiles %}
+          <div class="col-md-4">
+            <div class="profile">
+              {% if profile.image %}
+                {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+                {% if profile.image_circular %}
+                  {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+                {% else %}
+                  {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+                {% endif %}
+                {% include figure.liquid path = profile_image_path class = profile_image_class alt = profile.image %}
+              {% endif %}
+              {% if profile.more_info %}
+                <div class="more-info">{{ profile.more_info }}</div>
+              {% endif %}
+              {% if profile.content %}
+                {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+                {{ profile_content | markdownify }}
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </article>
+</div>
