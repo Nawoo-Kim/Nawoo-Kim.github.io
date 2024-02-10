@@ -6,7 +6,7 @@ subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: image_123650291.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -22,11 +22,11 @@ social: false # includes social icons at the bottom of the page
 * 연락처: [이메일, 전화번호 등] -->
 
 
-
 ## Education
 ---
-- 학사 및 전공: [대학교 이름], [전공], [졸업 연도]
-- 석사 및 전공: [대학교 이름], [전공], [졸업 연도]
+- 서울예술고등학교 서양화전공 졸 (2014. 02)
+- 이화여자대학교 조형예술학부 서양화전공 졸업 (2018. 02)
+- 이화여자대학교 조형예술학부 서양화전공 일반대학원 석사 졸업 (2023. 08)
 
 ## Work Experience
 ---
@@ -34,20 +34,15 @@ social: false # includes social icons at the bottom of the page
 
 ## Exhibition
 
-Solo
+개인전
 ---
-- [전시 이름], [전시 장소], [전시 일자]
-- [전시 이름], [전시 장소], [전시 일자]
-
-Group
+- <만개한 순간>, 개인전, WWWSPACE, 2023. 08. 02. ~ 2023. 08. 13.
+- <Magenta to Black>, 2인전, 그블루 갤러리, 2024. 02. 17. ~ 2024. 03. 17.
+ 
+그룹전
 ---
-- [전시 이름], [전시 장소], [전시 일자]
-- [전시 이름], [전시 장소], [전시 일자]
-
-Nawoo Kim Test
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- <오독의 즐거움>, SPACE 55, 2019. 10. 23. ~ 2019. 10. 31.
+- <1+10+12>, 연희동 은/는 가라지가게, 2019. 12. 06. ~ 2019. 12. 15.
+- <시소>, A Bunker, 2020. 11. 25. ~ 2020. 12. 09.
+- <서울예술고등학교 서울아트홀 건립기금마련 온라인 아트페어>, 온라인 아트페어, 2022. 06. 17. ~ 2022. 07. 08.
+- <그 위로 피어오르는 것은>, 이대서울병원 APCE B-TWO, 2022. 10. 17. ~ 2022. 12. 31.
