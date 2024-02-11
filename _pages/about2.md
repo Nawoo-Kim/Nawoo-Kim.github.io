@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about2
-permalink: /about2/
+title: cv
+permalink: /cv/
 nav: true
 # subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
 
