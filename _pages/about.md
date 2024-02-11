@@ -24,7 +24,9 @@ social: false # includes social icons at the bottom of the page
 
 <!-- ## Education -->
 <!-- --- -->
-- 서울예술고등학교 서양화전공 졸업 (2014. 02)
+
+## **Nawoo** Kim
+- 서울예술고등학교 서양화전공 졸업 (2014. 02) 
 - 이화여자대학교 조형예술학부 서양화전공 졸업 (2018. 02)
 - 이화여자대학교 조형예술학부 서양화전공 일반대학원 석사 졸업 (2023. 08)
 - 현\) 예원학교 출강
@@ -34,7 +36,7 @@ social: false # includes social icons at the bottom of the page
   
 - [회사/기관 이름], [직무/직책], [근무 기간] -->
 
-## Exhibition
+<!-- ## Exhibition -->
 
 개인전
 ---
