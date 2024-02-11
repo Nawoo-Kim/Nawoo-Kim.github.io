@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
+# subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
 
 profile:
   align: right
