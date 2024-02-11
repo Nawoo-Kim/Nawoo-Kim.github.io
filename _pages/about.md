@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /
+permalink: /aboutnotuse/
 nav: false
 # subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
 

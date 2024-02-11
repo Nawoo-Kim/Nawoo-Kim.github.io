@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /main/
-nav: true
-nav_order: 20
+permalink: /
+nav: false
 ---
 
 
