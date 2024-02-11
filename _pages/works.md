@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /works_2024/
-title: Works (2024)
+permalink: /works/
+title: Works
 nav: true
 nav_order: 16
 ---
 
 <div class="filter-links">
-  <a href="{{ site.baseurl }}{{ post.url }}/works_2024/">2024</a> | 
+  <!-- <a href="{{ site.baseurl }}{{ post.url }}/works_2024/">2024</a> |  -->
   <a href="{{ site.baseurl }}{{ post.url }}/works_2023/">2023</a> | 
   <a href="{{ site.baseurl }}{{ post.url }}/works_2020/">2020</a> | 
   <a href="{{ site.baseurl }}{{ post.url }}/works_2019/">2019</a>
@@ -15,7 +15,7 @@ nav_order: 16
 
 <div class="gallery">
 {% for item in site.data.images %}
-    {% if item.year == 2024 %}
+    {% if item.year == 2023 %}
         <div class="image-container">
             {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">{{ item.caption }} ({{ item.year }})</div>
