@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /works_2024/
-title: Works_2024
-description: Nawoo Kim's works_2024.
+title: Works (2024)
 nav: false
 nav_order: 18
 ---

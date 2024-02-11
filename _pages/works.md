@@ -2,7 +2,6 @@
 layout: page
 permalink: /works/
 title: Works
-description: Nawoo Kim's works. 9
 nav: true
 nav_order: 16
 ---
