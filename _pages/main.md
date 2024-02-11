@@ -11,14 +11,9 @@ nav_order: 20
 {% for item in site.data.mainimages %}
     <div class="image-container">
         {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    {% if forloop.index0 != 0 and forloop.index0 % 3 == 0 %}
-        </div><div class="gallery">
-    {% endif %}
+    </div>    
 {% endfor %}
 </div>
-
-
 
 <style>
     .gallery {
@@ -29,35 +24,23 @@ nav_order: 20
         margin-bottom: 20px;
     }
     .image-container {
-        width: calc(100% - 20px); /* 이미지 컨테이너의 너비 설정 */
+        width: calc(33.33% - 20px); /* 항상 3개의 이미지를 보여주기 위해 너비 조정 */
         margin-bottom: 20px;
-        position: relative; /* 상대적 위치 설정 */
-        cursor: pointer; /* 마우스 커서를 포인터로 변경하여 클릭 가능한 것을 표시 */
+        position: relative;
+        cursor: pointer;
     }
     .image {
-        width: 100%; /* 이미지를 부모 요소에 맞춰서 크기 조절 */
-        height: auto; /* 이미지의 비율 유지 */
+        width: 100%;
+        height: auto;
     }
     .caption {
-        position: absolute; /* 절대 위치 설정 */
-        bottom: -60px; /* 이미지 아래로 60px만큼 이동 */
-        left: 0; /* 왼쪽으로 정렬 */
-        width: 100%; /* 부모 요소의 너비에 맞추기 */
-        color: black; /* 텍스트 색상 설정 */
-        padding: 10px; /* 내부 여백 설정 */
-        box-sizing: border-box; /* 내부 여백이 요소의 크기에 포함되도록 설정 */
-    }
-
-    @media only screen and (min-width: 768px) {
-        .image-container {
-            width: calc(50% - 20px); /* 브라우저 크기가 768px 이상이면 2개의 이미지를 보여줌 */
-        }
-    }
-
-    @media only screen and (min-width: 1200px) {
-        .image-container {
-            width: calc(33.33% - 20px); /* 브라우저 크기가 1200px 이상이면 3개의 이미지를 보여줌 */
-        }
+        position: absolute;
+        bottom: -60px;
+        left: 0;
+        width: 100%;
+        color: black;
+        padding: 10px;
+        box-sizing: border-box;
     }
 </style>
 
