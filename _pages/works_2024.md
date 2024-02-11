@@ -1,15 +1,16 @@
 ---
 layout: page
-permalink: /works_2024/
+permalink: /works_2024_temp/
 title: Works (2024)
 nav: false
 nav_order: 18
 ---
 
 <div class="filter-links">
-  <a href="{{ site.baseurl }}{{ post.url }}/works/">All</a> | 
   <a href="{{ site.baseurl }}{{ post.url }}/works_2024/">2024</a> | 
-  <a href="{{ site.baseurl }}{{ post.url }}/works_2023/">2023</a>
+  <a href="{{ site.baseurl }}{{ post.url }}/works_2023/">2023</a> | 
+  <a href="{{ site.baseurl }}{{ post.url }}/works_2020/">2020</a> | 
+  <a href="{{ site.baseurl }}{{ post.url }}/works_2019/">2019</a>
 </div>
 
 <div class="gallery">
