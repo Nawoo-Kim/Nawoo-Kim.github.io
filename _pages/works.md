@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /works_2024/
-title: Works
+title: Works (2024)
 nav: true
 nav_order: 16
 ---
