@@ -1,6 +1,6 @@
 ---
 layout: about
-title: cv
+title: CV
 permalink: /cv/
 nav: true
 # subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
