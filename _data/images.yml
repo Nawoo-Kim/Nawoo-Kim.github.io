@@ -1,38 +1,23 @@
 # _data/images.yml
 
-# - url: "assets/img/마젠타철쭉과조개껍데기.jpg"
-#   alt: "Image 7 Description"
-#   caption: "마젠타: 철쭉과 조개껍데기"
-#   year: 2023
-
-# - url: "assets/img/초월하는초원.jpg"
-#   alt: "Image 8 Description"
-#   caption: "초월하는 초원"
-#   year: 2023
-
-# - url: "assets/img/화병과 치타.png"
-#   alt: "Image 9 Description"
-#   caption: "화병과 치타"
-#   year: 2023
-
-- url: "assets/img/붉은나리꽃.jpg"
+- url: "assets/img/마젠타철쭉과조개껍데기.jpg"
   alt: "Image 7 Description"
-  caption: "붉은 나리꽃"
+  caption: "마젠타: 철쭉과 조개껍데기"
   year: 2023
 
-- url: "assets/img/숭고한조개.jpg"
+- url: "assets/img/초월하는초원.jpg"
   alt: "Image 8 Description"
-  caption: "숭고한 조개"
+  caption: "초월하는 초원"
+  year: 2023
+
+- url: "assets/img/화병과치타.jpg"
+  alt: "Image 9 Description"
+  caption: "화병과 치타"
   year: 2023
 
 - url: "assets/img/만개순간.jpg"
   alt: "Image 9 Description"
   caption: "만개 순간"
-  year: 2023
-
-- url: "assets/img/기쁘고슬퍼하는조개.jpg"
-  alt: "Image 7 Description"
-  caption: "기쁘고 슬퍼하는 조개"
   year: 2023
 
 - url: "assets/img/만개.jpg"
@@ -53,11 +38,6 @@
 - url: "assets/img/움푹파인공간.jpg"
   alt: "Image 8 Description"
   caption: "움푹 파인 공간"
-  year: 2023
-
-- url: "assets/img/점박이나리꽃.jpg"
-  alt: "Image 9 Description"
-  caption: "점박이 나리꽃"
   year: 2023
 
 - url: "assets/img/환희나리.jpg"
@@ -84,5 +64,25 @@
   alt: "Image 9 Description"
   caption: "Naissance I"
   year: 2019
+
+- url: "assets/img/붉은나리꽃.jpg"
+  alt: "Image 7 Description"
+  caption: "붉은 나리꽃"
+  year: 2023
+
+- url: "assets/img/숭고한조개.jpg"
+  alt: "Image 8 Description"
+  caption: "숭고한 조개"
+  year: 2023
+
+- url: "assets/img/기쁘고슬퍼하는조개.jpg"
+  alt: "Image 7 Description"
+  caption: "기쁘고 슬퍼하는 조개"
+  year: 2023
+
+- url: "assets/img/점박이나리꽃.jpg"
+  alt: "Image 9 Description"
+  caption: "점박이 나리꽃"
+  year: 2023
 
 # Add more images as needed
