@@ -11,18 +11,18 @@
 #   alt: "Image 3 Description"
 #   caption: "Abstract smoke pattern forming in the air."
 #   year: 2023
-- url: "assets/img/cheetah.jpg"
-  alt: "Image 4 Description"
-  caption: "A serene landscape with mountains and trees."
-  year: 2024
-- url: "assets/img/owl.jpg"
-  alt: "Image 5 Description"
-  caption: "A close-up view of a blooming flower."
-  year: 2024
-- url: "assets/img/cheetah2.jpg"
-  alt: "Image 6 Description"
-  caption: "Colorful hot air balloons flying in the sky."
-  year: 2024
+# - url: "assets/img/cheetah.jpg"
+#   alt: "Image 4 Description"
+#   caption: "A serene landscape with mountains and trees."
+#   year: 2024
+# - url: "assets/img/owl.jpg"
+#   alt: "Image 5 Description"
+#   caption: "A close-up view of a blooming flower."
+#   year: 2024
+# - url: "assets/img/cheetah2.jpg"
+#   alt: "Image 6 Description"
+#   caption: "Colorful hot air balloons flying in the sky."
+#   year: 2024
 - url: "assets/img/마젠타철쭉과조개껍데기.jpg"
   alt: "Image 7 Description"
   caption: "마젠타: 철쭉과 조개껍데기"
@@ -75,18 +75,18 @@
   alt: "Image 9 Description"
   caption: "환희 나리"
   year: 2023
-- url: "assets/img/temp4.jpg"
-  alt: "Image 7 Description"
-  caption: "A peaceful scene of a lake at sunset."
-  year: 2023
-- url: "assets/img/temp5.jpg"
-  alt: "Image 8 Description"
-  caption: "An adorable puppy playing in the grass."
-  year: 2023
-- url: "assets/img/temp1.png"
-  alt: "Image 9 Description"
-  caption: "A stunning view of a city skyline at night."
-  year: 2023
+# - url: "assets/img/temp4.jpg"
+#   alt: "Image 7 Description"
+#   caption: "A peaceful scene of a lake at sunset."
+#   year: 2023
+# - url: "assets/img/temp5.jpg"
+#   alt: "Image 8 Description"
+#   caption: "An adorable puppy playing in the grass."
+#   year: 2023
+# - url: "assets/img/temp1.png"
+#   alt: "Image 9 Description"
+#   caption: "A stunning view of a city skyline at night."
+#   year: 2023
 # - url: "assets/img/조개혹은날개의풍경.jpg"
 #   alt: "Image 7 Description"
 #   caption: "조개 혹은 날개의 풍경"
