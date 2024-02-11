@@ -2,6 +2,7 @@
 layout: about
 title: about2
 permalink: /about2/
+nav: true
 # subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
 
 profile:
