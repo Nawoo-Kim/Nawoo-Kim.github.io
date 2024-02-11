@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /main/
-title: main
 nav: true
 nav_order: 20
 ---
