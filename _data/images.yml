@@ -1,39 +1,15 @@
 # _data/images.yml
-# - url: "assets/img/weaver-402521_1280.jpg"
-#   alt: "Image 1 Description"
-#   caption: "A beautiful weaver bird building its nest."
+# - url: "assets/img/마젠타철쭉과조개껍데기.jpg"
+#   alt: "Image 7 Description"
+#   caption: "마젠타: 철쭉과 조개껍데기"
 #   year: 2023
-# - url: "assets/img/hummingbird-8013214_1280.jpg"
-#   alt: "Image 2 Description"
-#   caption: "A colorful hummingbird hovering near a flower."
+# - url: "assets/img/초월하는초원.jpg"
+#   alt: "Image 8 Description"
+#   caption: "초월하는 초원"
 #   year: 2023
-# - url: "assets/img/smoke-298243_1280.jpg"
-#   alt: "Image 3 Description"
-#   caption: "Abstract smoke pattern forming in the air."
-#   year: 2023
-# - url: "assets/img/cheetah.jpg"
-#   alt: "Image 4 Description"
-#   caption: "A serene landscape with mountains and trees."
-#   year: 2024
-# - url: "assets/img/owl.jpg"
-#   alt: "Image 5 Description"
-#   caption: "A close-up view of a blooming flower."
-#   year: 2024
-# - url: "assets/img/cheetah2.jpg"
-#   alt: "Image 6 Description"
-#   caption: "Colorful hot air balloons flying in the sky."
-#   year: 2024
-- url: "assets/img/마젠타철쭉과조개껍데기.jpg"
-  alt: "Image 7 Description"
-  caption: "마젠타: 철쭉과 조개껍데기"
-  year: 2023
-- url: "assets/img/초월하는초원.jpg"
-  alt: "Image 8 Description"
-  caption: "초월하는 초원"
-  year: 2023
-- url: "assets/img/화병과 치타.png"
-  alt: "Image 9 Description"
-  caption: "화병과 치타"
+# - url: "assets/img/화병과 치타.png"
+#   alt: "Image 9 Description"
+#   caption: "화병과 치타"
   year: 2023
 - url: "assets/img/붉은나리꽃.jpg"
   alt: "Image 7 Description"
@@ -91,28 +67,4 @@
   alt: "Image 9 Description"
   caption: "Naissance I"
   year: 2019
-# - url: "assets/img/temp4.jpg"
-#   alt: "Image 7 Description"
-#   caption: "A peaceful scene of a lake at sunset."
-#   year: 2023
-# - url: "assets/img/temp5.jpg"
-#   alt: "Image 8 Description"
-#   caption: "An adorable puppy playing in the grass."
-#   year: 2023
-# - url: "assets/img/temp1.png"
-#   alt: "Image 9 Description"
-#   caption: "A stunning view of a city skyline at night."
-#   year: 2023
-# - url: "assets/img/조개혹은날개의풍경.jpg"
-#   alt: "Image 7 Description"
-#   caption: "조개 혹은 날개의 풍경"
-#   year: 2023
-# - url: "assets/img/진주조개와프리지아.jpg"
-#   alt: "Image 8 Description"
-#   caption: "진주조개와 프리지아"
-#   year: 2023
-# - url: "assets/img/하와이타베이아.jpg"
-#   alt: "Image 9 Description"
-#   caption: "하와이 티베이아"
-#   year: 2023
 # Add more images as needed
