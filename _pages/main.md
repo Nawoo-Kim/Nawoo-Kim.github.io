@@ -11,9 +11,13 @@ nav_order: 20
 {% for item in site.data.mainimages %}
     <div class="image-container">
         {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>    
+    </div>
+    {% if forloop.index0 != 0 and forloop.index0 % 3 == 0 %}
+        </div><div class="gallery">
+    {% endif %}
 {% endfor %}
 </div>
+
 
 
 <style>
