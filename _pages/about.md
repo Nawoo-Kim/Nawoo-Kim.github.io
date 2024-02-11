@@ -6,7 +6,7 @@ subtitle: <a href='#'>예원</a>. Address. now__kim_. Moto. Etc.
 
 profile:
   align: right
-  image: image_123650291.jpg
+  image: image_123650291.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
