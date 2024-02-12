@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /works_2024_temp/
-title: Works (2024)
+permalink: /works_2022/
+title: Works (2022)
 nav: false
-nav_order: 18
+nav_order: 17
 ---
 
 <div class="filter-links">
@@ -16,7 +16,7 @@ nav_order: 18
 
 <div class="gallery">
 {% for item in site.data.images %}
-    {% if item.year == 2024 %}
+    {% if item.year == 2023 %}
         <div class="image-container">
             {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">{{ item.caption }} ({{ item.year }})</div>
