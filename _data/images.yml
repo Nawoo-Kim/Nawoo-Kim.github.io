@@ -85,4 +85,14 @@
   caption: "점박이 나리꽃"
   year: 2023
 
+- url: "assets/img/ALandscapeOfShellsOrWings.jpg"
+  alt: "Image 9 Description"
+  caption: "A Landscape of Shells or Wings"
+  year: 2022
+
+- url: "assets/img/AWingmadeofNemphilas.jpg"
+  alt: "Image 9 Description"
+  caption: "A Wing made of Nemphilas"
+  year: 2022
+
 # Add more images as needed

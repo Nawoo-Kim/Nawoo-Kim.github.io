@@ -16,7 +16,7 @@ nav_order: 17
 
 <div class="gallery">
 {% for item in site.data.images %}
-    {% if item.year == 2023 %}
+    {% if item.year == 2022 %}
         <div class="image-container">
             {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">{{ item.caption }} ({{ item.year }})</div>
