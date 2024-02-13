@@ -6,7 +6,7 @@ permalink: /nwkim/
 
 profile:
   align: right
-  image: image_123650291.JPG
+  image: nwkim_profile.JPG
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
