@@ -1,5 +1,15 @@
 # _data/images.yml
 
+- url: "assets/img/a_red_garden.jpg"
+  alt: "Image 9 Description"
+  caption: "붉은 정원"
+  year: 2023
+
+- url: "assets/img/magenta_royal_azalea.jpg"
+  alt: "Image 9 Description"
+  caption: "마젠타 철쭉"
+  year: 2023
+
 - url: "assets/img/마젠타철쭉과조개껍데기.jpg"
   alt: "Image 7 Description"
   caption: "마젠타: 철쭉과 조개껍데기"
@@ -23,12 +33,7 @@
 - url: "assets/img/만개.jpg"
   alt: "Image 8 Description"
   caption: "만개"
-  year: 2023
-
-- url: "assets/img/분출구.jpg"
-  alt: "Image 9 Description"
-  caption: "분출구"
-  year: 2023
+  year: 2022
 
 - url: "assets/img/왕관조개.jpg"
   alt: "Image 7 Description"
@@ -95,4 +100,18 @@
   caption: "A Wing made of Nemphilas"
   year: 2022
 
+- url: "assets/img/black_iris.jpg"
+  alt: "Image 9 Description"
+  caption: "검은 아이리스"
+  year: 2023
+
+- url: "assets/img/magenta_moth_orchid.jpg"
+  alt: "Image 9 Description"
+  caption: "마젠타 호접란"
+  year: 2023
+
+- url: "assets/img/Pearl_clams_and_freesia.jpg"
+  alt: "Image 9 Description"
+  caption: "진주조개와 프리지아"
+  year: 2023
 # Add more images as needed
