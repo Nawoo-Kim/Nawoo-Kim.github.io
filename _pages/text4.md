@@ -22,9 +22,9 @@ nav_order: 34
 <div class="posts">
   {% for post in site.text %}
     <article>
-      ## [{{ post.title }}]({{ post.url }})
-        {{ post.excerpt }}
-        [Read more]({{ post.url }})
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+      <p><a href="{{ post.url }}">Read more</a></p>
     </article>
   {% endfor %}
 </div>
