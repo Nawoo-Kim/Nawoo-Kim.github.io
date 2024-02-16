@@ -4,6 +4,7 @@ title: "만개한 순간"
 author: 김나우
 date: 2023-08-01
 excerpt: 만개순간스트
+permalink: /text/fullbloom/
 categories: text
 ---
 

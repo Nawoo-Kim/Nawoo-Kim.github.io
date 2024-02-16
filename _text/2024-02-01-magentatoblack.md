@@ -4,6 +4,7 @@ title: "만개한 순간"
 author: 콘노 유키
 date: 2024-02-01
 excerpt: 테스트
+permalink: /text/magentatoblack/
 categories: text
 ---
 
