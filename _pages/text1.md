@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /text1/
 title: Text1
 nav: true
