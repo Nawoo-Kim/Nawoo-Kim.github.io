@@ -27,4 +27,3 @@ nav_order: 30
     </article>
   {% endfor %}
 </div>
-
