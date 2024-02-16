@@ -29,8 +29,8 @@ nav_order: 30
 <div class="posts">
   {% for post in site.text %}
     <article>
-      <h2><a href="{{ post.url }}">{{ post.title | markdownify }}</a></h2>
-      <p>... {{ post.excerpt }} ... <a href="{{ post.url }}">Read more</a></p>
+      <h2><a href="{{ post.url }}" style="color: black;">{{ post.title | markdownify }}</a></h2>
+      <p>... {{ post.excerpt }} ... <a href="{{ post.url }}" style="color: black;">Read more</a></p>
     </article>
   {% endfor %}
 </div>
