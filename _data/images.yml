@@ -20,16 +20,6 @@
   caption: "만개"
   year: 2022
 
-- url: "assets/img/숭고한조개.jpg"
-  alt: "Image 8 Description"
-  caption: "숭고한 조개"
-  year: 2022
-
-- url: "assets/img/기쁘고슬퍼하는조개.jpg"
-  alt: "Image 7 Description"
-  caption: "기쁘고 슬퍼하는 조개"
-  year: 2022
-
 - url: "assets/img/ALandscapeOfShellsOrWings.jpg"
   alt: "Image 9 Description"
   caption: "A Landscape of Shells or Wings"
@@ -38,6 +28,16 @@
 - url: "assets/img/AWingmadeofNemphilas.jpg"
   alt: "Image 9 Description"
   caption: "A Wing made of Nemphilas"
+  year: 2022
+
+- url: "assets/img/숭고한조개.jpg"
+  alt: "Image 8 Description"
+  caption: "숭고한 조개"
+  year: 2022
+
+- url: "assets/img/기쁘고슬퍼하는조개.jpg"
+  alt: "Image 7 Description"
+  caption: "기쁘고 슬퍼하는 조개"
   year: 2022
 
 - url: "assets/img/a_red_garden.jpg"
@@ -70,6 +70,21 @@
   caption: "만개 순간"
   year: 2023
 
+- url: "assets/img/black_iris.jpg"
+  alt: "Image 9 Description"
+  caption: "검은 아이리스"
+  year: 2023
+
+- url: "assets/img/hawaii_tabebuia.jpg"
+  alt: "Image 9 Description"
+  caption: "하와이 타베비아"
+  year: 2023
+
+- url: "assets/img/Pearl_clams_and_freesia.jpg"
+  alt: "Image 9 Description"
+  caption: "진주조개와 프리지아"
+  year: 2023
+
 - url: "assets/img/왕관조개.jpg"
   alt: "Image 7 Description"
   caption: "왕관 조개"
@@ -100,18 +115,10 @@
   caption: "점박이 나리꽃"
   year: 2023
 
-- url: "assets/img/black_iris.jpg"
-  alt: "Image 9 Description"
-  caption: "검은 아이리스"
-  year: 2023
-
 - url: "assets/img/magenta_moth_orchid.jpg"
   alt: "Image 9 Description"
   caption: "마젠타 호접란"
   year: 2023
 
-- url: "assets/img/Pearl_clams_and_freesia.jpg"
-  alt: "Image 9 Description"
-  caption: "진주조개와 프리지아"
-  year: 2023
+
 # Add more images as needed
