@@ -8,7 +8,7 @@ permalink: /text/fullbloom/
 categories: text
 ---
 
-**김나우**
+#### 김나우
 
 ---
 

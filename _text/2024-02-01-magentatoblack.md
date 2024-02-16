@@ -9,9 +9,7 @@ categories: text
 ---
 
 
-<div style="text-align: center;">
-  **콘노 유키 (Yuki Kono)**
-</div>
+#### 콘노 유키 (Yuki Kono)
 
 ---
 
