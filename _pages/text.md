@@ -6,24 +6,25 @@ nav: true
 nav_order: 30
 ---
 
-<!-- Title, Author, Date List -->
 <div class="post-info">
-  <ul>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="border-bottom: 1px solid black; padding: 5px 0;"></li>
     {% for post in site.text %}
-      <li>
-        [{{ post.title }}]({{ post.url }}) - {{ post.author }} - {{ post.date | date: "%Y. %m" }}
+      <li style="border-bottom: 1px solid black; padding: 5px 0;">
+        <span style="font-size: 120%;">&rarr;</span> <a href="{{ post.url }}" style="color: black; text-decoration: none;">{{ post.title }}</a> - {{ post.author }} - {{ post.date | date: "%Y. %m" }}
       </li>
     {% endfor %}
+    <li style="border-bottom: 1px solid black; padding: 5px 0;"></li>
   </ul>
 </div>
+
 
 <!-- Posts List -->
 <div class="posts">
   {% for post in site.text %}
     <article>
-      ## [{{ post.title }}]({{ post.url }})
-      {{ post.excerpt }}
-      [Read more]({{ post.url }})
+      <h2><a href="{{ post.url }}">{{ post.title | markdownify }}</a></h2>
+      <p>... {{ post.excerpt }} ... <a href="{{ post.url }}">Read more</a></p>
     </article>
   {% endfor %}
 </div>
