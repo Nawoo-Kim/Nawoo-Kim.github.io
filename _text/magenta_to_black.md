@@ -1,7 +1,7 @@
 ---
 title: "만개한 순간"
-author: 김나우
-date: 2023-08-01
+author: 콘노 유키
+date: 2024-02-01
 excerpt: 테스트
 ---
 
