@@ -11,7 +11,7 @@ nav_order: 34
   <ul>
     {% for post in site.text %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.author }} - {{ post.date | date: "%Y. %m" }}
+        <a href="{{ post.url }}"  style="color: black;">{{ post.title }}</a> - {{ post.author }} - {{ post.date | date: "%Y. %m" }}
       </li>
     {% endfor %}
   </ul>
