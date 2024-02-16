@@ -1,7 +1,8 @@
 ---
 title: "만개한 순간"
 author: 김나우
-date: 2023-08-01
+date: 2023-08-01 16:03:00
+description: this is what included echarts code could look like
 excerpt: 만개순간 테스트
 categories: [text]
 ---
