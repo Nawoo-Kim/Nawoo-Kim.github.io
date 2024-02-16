@@ -1,5 +1,45 @@
 # _data/images.yml
 
+- url: "assets/img/ALandscapeofZenone.jpg"
+  alt: "Image 9 Description"
+  caption: "A Landscape of Zenone"
+  year: 2020
+
+- url: "assets/img/DayAndNight.jpg"
+  alt: "Image 9 Description"
+  caption: "Day and Night"
+  year: 2020
+
+- url: "assets/img/Heat.jpg"
+  alt: "Image 9 Description"
+  caption: "Heat"
+  year: 2020
+
+- url: "assets/img/만개.jpg"
+  alt: "Image 8 Description"
+  caption: "만개"
+  year: 2022
+
+- url: "assets/img/숭고한조개.jpg"
+  alt: "Image 8 Description"
+  caption: "숭고한 조개"
+  year: 2022
+
+- url: "assets/img/기쁘고슬퍼하는조개.jpg"
+  alt: "Image 7 Description"
+  caption: "기쁘고 슬퍼하는 조개"
+  year: 2022
+
+- url: "assets/img/ALandscapeOfShellsOrWings.jpg"
+  alt: "Image 9 Description"
+  caption: "A Landscape of Shells or Wings"
+  year: 2022
+
+- url: "assets/img/AWingmadeofNemphilas.jpg"
+  alt: "Image 9 Description"
+  caption: "A Wing made of Nemphilas"
+  year: 2022
+
 - url: "assets/img/a_red_garden.jpg"
   alt: "Image 9 Description"
   caption: "붉은 정원"
@@ -30,11 +70,6 @@
   caption: "만개 순간"
   year: 2023
 
-- url: "assets/img/만개.jpg"
-  alt: "Image 8 Description"
-  caption: "만개"
-  year: 2022
-
 - url: "assets/img/왕관조개.jpg"
   alt: "Image 7 Description"
   caption: "왕관 조개"
@@ -50,21 +85,6 @@
   caption: "환희 나리"
   year: 2023
 
-- url: "assets/img/ALandscapeofZenone.jpg"
-  alt: "Image 9 Description"
-  caption: "A Landscape of Zenone"
-  year: 2020
-
-- url: "assets/img/DayAndNight.jpg"
-  alt: "Image 9 Description"
-  caption: "Day and Night"
-  year: 2020
-
-- url: "assets/img/Heat.jpg"
-  alt: "Image 9 Description"
-  caption: "Heat"
-  year: 2020
-
 # - url: "assets/img/Naissance1.jpeg"
 #   alt: "Image 9 Description"
 #   caption: "Naissance I"
@@ -75,30 +95,10 @@
   caption: "붉은 나리꽃"
   year: 2023
 
-- url: "assets/img/숭고한조개.jpg"
-  alt: "Image 8 Description"
-  caption: "숭고한 조개"
-  year: 2022
-
-- url: "assets/img/기쁘고슬퍼하는조개.jpg"
-  alt: "Image 7 Description"
-  caption: "기쁘고 슬퍼하는 조개"
-  year: 2022
-
 - url: "assets/img/점박이나리꽃.jpg"
   alt: "Image 9 Description"
   caption: "점박이 나리꽃"
   year: 2023
-
-- url: "assets/img/ALandscapeOfShellsOrWings.jpg"
-  alt: "Image 9 Description"
-  caption: "A Landscape of Shells or Wings"
-  year: 2022
-
-- url: "assets/img/AWingmadeofNemphilas.jpg"
-  alt: "Image 9 Description"
-  caption: "A Wing made of Nemphilas"
-  year: 2022
 
 - url: "assets/img/black_iris.jpg"
   alt: "Image 9 Description"
