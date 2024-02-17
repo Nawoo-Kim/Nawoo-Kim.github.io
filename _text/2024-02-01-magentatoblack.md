@@ -8,8 +8,7 @@ permalink: /text/magentatoblack/
 categories: text
 ---
 
-
-#### 콘노 유키 (Yuki Kono)
+#### Exhibition Text, 《Magenta to Black》, 콘노 유키, Feb. 2024
 
 ---
 

@@ -8,7 +8,7 @@ permalink: /text/fullbloom/
 categories: text
 ---
 
-#### 김나우
+#### Exhibition Text, 《만개한 순간》, 김나우, Aug. 2023
 
 ---
 
