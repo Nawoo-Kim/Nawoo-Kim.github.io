@@ -6,7 +6,7 @@ nav: true
 nav_order: 30
 ---
 
-<div class="post-info">
+<!-- <div class="post-info">
   <ul style="list-style: none; padding-left: 0;">
     <li style="padding: 5px 0; font-weight: bold; text-decoration: underline;"></li>
     {% for post in site.text %}
@@ -22,7 +22,7 @@ nav_order: 30
 </div>
 
 <!-- Add spacing -->
-<br><br><br>
+<!-- <br><br><br> -->
 
 
 <!-- Posts List -->
@@ -30,7 +30,7 @@ nav_order: 30
   {% for post in site.text %}
     <article>
       <h2><a href="{{ post.url }}" style="color: black;">{{ post.title | markdownify }}</a></h2>
-      <p>... {{ post.excerpt }} ... <a href="{{ post.url }}" style="color: black;">Read more</a></p>
+      <p>{{ post.excerpt }} ... <a href="{{ post.url }}" style="color: black;">Read more</a></p>
     </article>
   {% endfor %}
 </div>
