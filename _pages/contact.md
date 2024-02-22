@@ -6,6 +6,7 @@ nav: true
 nav_order: 99
 ---
 
-**Email** : [edronakim@gmail.com](mailto:edronakim@gmail.com)
+**Email** : <a href="mailto:edronakim@gmail.com" style="color: black;">edronakim@gmail.com</a>.
 
-**Instagram** : [@now__kim_](https://www.instagram.com/now__kim_/)
+
+**Instagram** : <a href="https://www.instagram.com/now__kim_" style="color: black;">@now__kim_</a>.
