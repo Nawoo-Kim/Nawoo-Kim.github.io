@@ -40,9 +40,11 @@ nav: false
     @media (max-width: 767px) {
         .gallery {
             gap: 10px; /* 작은 크기의 브라우저에서는 사진 간의 거리를 줄임 */
+            margin-bottom: 10px;
         }
         .image-container {
             width: calc(33.33% - 10px); /* 작은 크기의 브라우저에서는 이미지 간의 공백 크기만 줄임 */
+            margin-bottom: 10px;
         }
     }
 </style>
