@@ -2,6 +2,7 @@
 layout: page
 permalink: /contact/
 title: Contact
+displaytitle: Contact Info
 nav: true
 nav_order: 99
 ---
