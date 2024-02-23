@@ -4,15 +4,6 @@ permalink: /
 nav: false
 ---
 
-
-<div class="gallery">
-{% for item in site.data.mainimages %}
-    <div class="image-container">
-        {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>    
-{% endfor %}
-</div>
-
 <style>
     .gallery {
         display: flex;
@@ -30,6 +21,11 @@ nav: false
     .image {
         width: 100%;
         height: auto;
+        transition: transform 0.3s ease-in-out;
+    }
+    .expanded {
+        transform: scale(1.5); /* 클릭했을 때 이미지 확대 */
+        z-index: 1;
     }
     .caption {
         position: absolute;
@@ -40,7 +36,25 @@ nav: false
         padding: 10px;
         box-sizing: border-box;
     }
+
+    @media (max-width: 767px) {
+        .gallery {
+            gap: 10px; /* 작은 크기의 브라우저에서는 사진 간의 거리를 줄임 */
+        }
+        .image-container {
+            width: calc(33.33% - 10px); /* 작은 크기의 브라우저에서는 이미지 간의 공백 크기만 줄임 */
+        }
+    }
 </style>
+
+<div class="gallery">
+{% for item in site.data.mainimages %}
+    <div class="image-container">
+        <img src="{{ item.url }}" class="image img-fluid rounded z-depth-1" alt="{{ item.alt }}">
+        <div class="caption">{{ item.caption }}</div>
+    </div>
+{% endfor %}
+</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function(event) {
