@@ -65,9 +65,9 @@
   caption: "화병과 치타"
   year: 2023
 
-- url: "assets/img/만개순간.jpg"
+- url: "assets/img/magenta_moth_orchid.jpg"
   alt: "Image 9 Description"
-  caption: "만개 순간"
+  caption: "마젠타 호접란"
   year: 2023
 
 - url: "assets/img/black_iris.jpg"
@@ -115,10 +115,9 @@
   caption: "점박이 나리꽃"
   year: 2023
 
-- url: "assets/img/magenta_moth_orchid.jpg"
+- url: "assets/img/만개순간.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타 호접란"
+  caption: "만개 순간"
   year: 2023
-
 
 # Add more images as needed
