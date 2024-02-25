@@ -34,7 +34,7 @@ nav_order: 18
 <div class="gallery">
 {% for item in site.data.images %}
     {% if item.year == 1001 %}
-        <div class="image-container" style="width: calc(50% - 20px);">
+        <div class="image-container" style="width: calc(50% - 20px); display: inline-block;">
             {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     {% endif %}
