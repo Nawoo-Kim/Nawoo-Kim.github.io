@@ -27,7 +27,7 @@ nav_order: 18
 <div style="clear:both;"></div>
 <div style="text-align: right; margin-right: 20px; margin-bottom: 10px; margin-top: 3px;"> Installation View of  《Magenta to Black》 (2024)</div>
 
-<hr style="margin-bottom: 10px; border-color: black; border-width: 3px;">
+<hr style="margin-bottom: 10px; border-color: black; border-width: 1px;">
 
 
 <br><br> <!-- 새로운 라인 추가 -->
