@@ -8,6 +8,7 @@ nav_order: 16
 ---
 
 <div class="filter-links">
+  <a href="{{ site.baseurl }}{{ post.url }}/works_installationview/">Installation View</a> | 
   <a href="{{ site.baseurl }}{{ post.url }}/works_2024/">2024</a> | 
   <a href="{{ site.baseurl }}{{ post.url }}/works_2023/">2023</a> | 
   <a href="{{ site.baseurl }}{{ post.url }}/works_2022/">2022</a> | 
