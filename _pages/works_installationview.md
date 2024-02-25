@@ -19,7 +19,6 @@ nav_order: 18
   {% for item in images_1000 %}
     <div class="image-container">
         <img src="{{ item.url }}" class="image img-fluid rounded z-depth-1" alt="{{ item.alt }}">
-        <div class="caption">{{ item.caption }} ({{ item.year }})</div>
     </div>
   {% endfor %}
 </div>
@@ -32,7 +31,6 @@ nav_order: 18
   {% for item in images_1001 %}
     <div class="image-container">
         <img src="{{ item.url }}" class="image img-fluid rounded z-depth-1" alt="{{ item.alt }}">
-        <div class="caption">{{ item.caption }} ({{ item.year }})</div>
     </div>
   {% endfor %}
 </div>
