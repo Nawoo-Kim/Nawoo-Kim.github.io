@@ -25,12 +25,12 @@ nav_order: 18
 </div>
 
 <div style="clear:both;"></div>
-<div style="text-align: right; margin-right: 20px; margin-bottom: 20px;">Magenta to Black (2024)</div>
+<div style="text-align: right; margin-right: 20px; margin-bottom: 20px;"> Installation View of  《Magenta to Black》 (2024)</div>
 
 <div class="gallery">
 {% for item in site.data.images %}
     {% if item.year == 1001 %}
-        <div class="image-container">
+        <div class="image-container" style="width: calc(50% - 20px);">
             {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     {% endif %}
@@ -38,7 +38,7 @@ nav_order: 18
 </div>
 
 <div style="clear:both;"></div>
-<div style="text-align: right; margin-right: 20px; margin-bottom: 20px;">Full Bloom (2023)</div>
+<div style="text-align: right; margin-right: 20px; margin-bottom: 20px;">Installation View of  《Full Bloom》 (2023)</div>
 
 
 <style>
