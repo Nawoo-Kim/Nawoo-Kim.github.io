@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /works_2024/
-title: Works (2024)
+permalink: /works_installationview/
+title: Installation View
 nav: false
 nav_order: 18
 ---
