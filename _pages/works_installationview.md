@@ -27,6 +27,10 @@ nav_order: 18
 <div style="clear:both;"></div>
 <div style="text-align: right; margin-right: 20px; margin-bottom: 10px;"> Installation View of  《Magenta to Black》 (2024)</div>
 
+<hr style="margin-bottom: 10px;"> <!-- 가로 선 추가 -->
+
+<br><br> <!-- 새로운 라인 추가 -->
+
 <div class="gallery">
 {% for item in site.data.images %}
     {% if item.year == 1001 %}
