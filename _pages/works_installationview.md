@@ -25,9 +25,10 @@ nav_order: 18
 </div>
 
 <div style="clear:both;"></div>
-<div style="text-align: right; margin-right: 20px; margin-bottom: 10px;"> Installation View of  《Magenta to Black》 (2024)</div>
+<div style="text-align: right; margin-right: 20px; margin-bottom: 10px; margin-top: 3px;"> Installation View of  《Magenta to Black》 (2024)</div>
 
-<hr style="margin-bottom: 10px;"> <!-- 가로 선 추가 -->
+<hr style="margin-bottom: 10px; border-color: black; border-width: 3px;">
+
 
 <br><br> <!-- 새로운 라인 추가 -->
 
@@ -42,7 +43,7 @@ nav_order: 18
 </div>
 
 <div style="clear:both;"></div>
-<div style="text-align: right; margin-right: 20px; margin-bottom: 5px;">Installation View of  《Full Bloom》 (2023)</div>
+<div style="text-align: right; margin-right: 20px; margin-bottom: 5px; margin-top: 5px;">Installation View of  《Full Bloom》 (2023)</div>
 
 
 <style>
