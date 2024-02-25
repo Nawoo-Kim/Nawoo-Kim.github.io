@@ -15,15 +15,30 @@ nav_order: 18
 </div>
 
 <div class="gallery">
-{% for item in site.data.images %}
-    {% if item.year == 2024 %}
-        <div class="image-container">
-            {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
-            <div class="caption">{{ item.caption }} ({{ item.year }})</div>
-        </div>
-    {% endif %}
-{% endfor %}
+  {% assign images_1000 = site.data.images | where: "year", 1000 %}
+  {% for item in images_1000 %}
+    <div class="image-container">
+        <img src="{{ item.url }}" class="image img-fluid rounded z-depth-1" alt="{{ item.alt }}">
+        <div class="caption">{{ item.caption }} ({{ item.year }})</div>
+    </div>
+  {% endfor %}
 </div>
+
+<div style="clear:both;"></div>
+<div style="text-align: right; margin-right: 20px; margin-bottom: 20px;">Magenta to Black (2024)</div>
+
+<div class="gallery">
+  {% assign images_1001 = site.data.images | where: "year", 1001 %}
+  {% for item in images_1001 %}
+    <div class="image-container">
+        <img src="{{ item.url }}" class="image img-fluid rounded z-depth-1" alt="{{ item.alt }}">
+        <div class="caption">{{ item.caption }} ({{ item.year }})</div>
+    </div>
+  {% endfor %}
+</div>
+
+<div style="clear:both;"></div>
+<div style="text-align: right; margin-right: 20px; margin-bottom: 20px;">Full Bloom (2023)</div>
 
 
 <style>
@@ -35,7 +50,7 @@ nav_order: 18
         margin-bottom: 20px;
     }
     .image-container {
-        width: calc(100% - 20px); /* 이미지 컨테이너의 너비 설정 */
+        width: calc(50% - 20px); /* 이미지 컨테이너의 너비 설정 */
         margin-bottom: 20px;
         position: relative; /* 상대적 위치 설정 */
         cursor: pointer; /* 마우스 커서를 포인터로 변경하여 클릭 가능한 것을 표시 */
