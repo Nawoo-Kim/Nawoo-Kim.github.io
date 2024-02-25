@@ -15,24 +15,26 @@ nav_order: 18
 </div>
 
 <div class="gallery">
-  {% assign images_1000 = site.data.images | where: "year", 1000 %}
-  {% for item in images_1000 %}
-    <div class="image-container">
-        <img src="{{ item.url }}" class="image img-fluid rounded z-depth-1" alt="{{ item.alt }}">
-    </div>
-  {% endfor %}
+{% for item in site.data.images %}
+    {% if item.year == 1000 %}
+        <div class="image-container">
+            {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
+    {% endif %}
+{% endfor %}
 </div>
 
 <div style="clear:both;"></div>
 <div style="text-align: right; margin-right: 20px; margin-bottom: 20px;">Magenta to Black (2024)</div>
 
 <div class="gallery">
-  {% assign images_1001 = site.data.images | where: "year", 1001 %}
-  {% for item in images_1001 %}
-    <div class="image-container">
-        <img src="{{ item.url }}" class="image img-fluid rounded z-depth-1" alt="{{ item.alt }}">
-    </div>
-  {% endfor %}
+{% for item in site.data.images %}
+    {% if item.year == 1001 %}
+        <div class="image-container">
+            {% include figure.liquid path=item.url class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
+    {% endif %}
+{% endfor %}
 </div>
 
 <div style="clear:both;"></div>
