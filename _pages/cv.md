@@ -30,7 +30,10 @@ social: false # includes social icons at the bottom of the page
 <!-- --- -->
 
 ## **Nawoo** Kim
-(b. 1995)
+b. 1995.
+based in Seoul.
+<a href="mailto:edronakim@gmail.com" style="color: black;">edronakim@gmail.com</a>
+<a href="https://www.instagram.com/now__kim_" style="color: black;">@now__kim_</a>
 
 ### 학력
 - 2023 이화여자대학교 조형예술학부 서양화전공 일반대학원 석사 졸업
