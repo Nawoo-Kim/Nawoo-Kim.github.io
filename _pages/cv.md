@@ -43,6 +43,9 @@ b. 1995. | Based in Seoul. | <a href="mailto:edronakim@gmail.com" style="color: 
 - 2023 《만개한 순간》, WWW SPACE, 서울
  
 #### 단체전
+- 2024 《Happy Birthday 2》, 그블루 갤러리, 서울
+- 2024 《Vanilla Sky, 순간의 영원 : Eternal Moments》: 3인전, 케이옥션, 서울
+- 2024 《홍수계 예술지원 프로젝트》: 예원미인 영상전, 강북삼성병원, 서울
 - 2022 《그 위로 피어오르는 것은》, 이대서울병원 SPACE B-TWO, 서울
 - 2022 《서울예술고등학교 서울아트홀 건립기금마련 온라인 아트페어》, 온라인 아트페어
 - 2020 《시소》, A Bunker, 서울
