@@ -7,7 +7,7 @@ nav: false
 nav_order: 7
 
 profiles:
-  - image: nwkim_profile3.jpeg
+  - image: nwkim_profile4.jpg
     # more_info: "Additional info for image 1"
     content: "nwkimtext.md"
 ---
