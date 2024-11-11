@@ -1,5 +1,3 @@
-# _data/images.yml
-
 - url: "assets/img/low_ALandscapeofZenone.jpg"
   alt: "Image 9 Description"
   caption: "A Landscape of Zenone"
@@ -17,7 +15,7 @@
 
 - url: "assets/img/low_만개.jpg"
   alt: "Image 8 Description"
-  caption: "만개"
+  caption: "만개 (Full Bloom)"
   year: 2022
 
 - url: "assets/img/low_ALandscapeOfShellsOrWings.jpg"
@@ -32,92 +30,87 @@
 
 - url: "assets/img/숭고한조개.jpg"
   alt: "Image 8 Description"
-  caption: "숭고한 조개"
+  caption: "숭고한 조개 (Sublime Clam)"
   year: 2022
 
 - url: "assets/img/low_기쁘고슬퍼하는조개.jpg"
   alt: "Image 7 Description"
-  caption: "기쁘고 슬퍼하는 조개"
+  caption: "기쁘고 슬퍼하는 조개 (Joyful and Sad Clam)"
   year: 2022
 
 - url: "assets/img/low_a_red_garden.jpg"
   alt: "Image 9 Description"
-  caption: "붉은 정원"
+  caption: "붉은 정원 (Red Garden)"
   year: 2023
 
 - url: "assets/img/low_magenta_royal_azalea.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타 철쭉"
+  caption: "마젠타 철쭉 (Magenta Royal Azalea)"
   year: 2023
 
 - url: "assets/img/low_마젠타철쭉과조개껍데기.jpg"
   alt: "Image 7 Description"
-  caption: "마젠타: 철쭉과 조개껍데기"
+  caption: "마젠타: 철쭉과 조개껍데기 (Magenta: Azalea and Shells)"
   year: 2023
 
 - url: "assets/img/low_초월하는초원.jpg"
   alt: "Image 8 Description"
-  caption: "초월하는 초원"
+  caption: "초월하는 초원 (Transcendent Meadow)"
   year: 2023
 
 - url: "assets/img/low_화병과치타.jpg"
   alt: "Image 9 Description"
-  caption: "화병과 치타"
+  caption: "화병과 치타 (Vase and Cheetah)"
   year: 2023
 
 - url: "assets/img/low_magenta_moth_orchid.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타 호접란"
+  caption: "마젠타 호접란 (Magenta Moth Orchid)"
   year: 2023
 
 - url: "assets/img/low_black_iris.jpg"
   alt: "Image 9 Description"
-  caption: "검은 아이리스"
+  caption: "검은 아이리스 (Black Iris)"
   year: 2023
 
 - url: "assets/img/low_hawaii_tabebuia.jpg"
   alt: "Image 9 Description"
-  caption: "하와이 타베비아"
+  caption: "하와이 타베비아 (Hawaii Tabebuia)"
   year: 2023
 
 - url: "assets/img/low_Pearl_clams_and_freesia.jpg"
   alt: "Image 9 Description"
-  caption: "진주조개와 프리지아"
+  caption: "진주조개와 프리지아 (Pearl Clam and Freesia)"
   year: 2023
 
 - url: "assets/img/low_왕관조개.jpg"
   alt: "Image 7 Description"
-  caption: "왕관 조개"
+  caption: "왕관 조개 (Crowned Clam)"
   year: 2023
 
 - url: "assets/img/low_움푹파인공간.jpg"
   alt: "Image 8 Description"
-  caption: "움푹 파인 공간"
+  caption: "움푹 파인 공간 (Hollowed Space)"
   year: 2023
 
 - url: "assets/img/low_환희나리.jpg"
   alt: "Image 9 Description"
-  caption: "환희 나리"
+  caption: "환희 나리 (Lily of Delight)"
   year: 2023
-
-# - url: "assets/img/Naissance1.jpeg"
-#   alt: "Image 9 Description"
-#   caption: "Naissance I"
-#   year: 1
 
 - url: "assets/img/low_붉은나리꽃.jpg"
   alt: "Image 7 Description"
-  caption: "붉은 나리꽃"
+  caption: "붉은 나리꽃 (Red Lily)"
   year: 2023
 
 - url: "assets/img/low_점박이나리꽃.jpg"
   alt: "Image 9 Description"
-  caption: "점박이 나리꽃"
+  caption: "점박이 나리꽃 (Speckled Lily)"
   year: 2023
 
 - url: "assets/img/low_만개순간.jpg"
   alt: "Image 9 Description"
-  caption: "만개 순간"
+  caption: "만개 순간 (The Moment of Full Bloom)"
   year: 2023
 
 - url: "assets/img/magentatoblack/MagentaHour.jpg"
@@ -127,7 +120,7 @@
 
 - url: "assets/img/magentatoblack/자정.jpg"
   alt: "Image 9 Description"
-  caption: "자정"
+  caption: "자정 (Midnight)"
   year: 2024
 
 - url: "assets/img/magentatoblack/TheHourofBlack.jpg"
@@ -162,7 +155,7 @@
 
 - url: "assets/img/magentatoblack/석화와석양.jpg"
   alt: "Image 9 Description"
-  caption: "석화와 석양"
+  caption: "석화와 석양 (Stone Flower and Sunset)"
   year: 2024
 
 - url: "assets/img/magentatoblack/FromDawntotheDark.jpg"
@@ -172,12 +165,12 @@
 
 - url: "assets/img/magentatoblack/만개후.jpg"
   alt: "Image 9 Description"
-  caption: "만개 후"
+  caption: "만개 후 (After Full Bloom)"
   year: 2024
 
 - url: "assets/img/magentatoblack/환희비.jpg"
   alt: "Image 9 Description"
-  caption: "환희 비"
+  caption: "환희 비 (Rain of Delight)"
   year: 2024
 
 - url: "assets/img/magentatoblack/Daybreak.jpg"
@@ -187,52 +180,50 @@
 
 - url: "assets/img/low_마젠타투블랙전시전경1.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타투블랙전시전경 1"
+  caption: "마젠타투블랙전시전경 1 (Magenta to Black Exhibition View 1)"
   year: 1000
 
 - url: "assets/img/low_마젠타투블랙전시전경2.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타투블랙전시전경 2"
+  caption: "마젠타투블랙전시전경 2 (Magenta to Black Exhibition View 2)"
   year: 1000
 
 - url: "assets/img/low_마젠타투블랙전시전경3.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타투블랙전시전경 3"
+  caption: "마젠타투블랙전시전경 3 (Magenta to Black Exhibition View 3)"
   year: 1000
 
 - url: "assets/img/low_마젠타투블랙전시전경8.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타투블랙전시전경 8"
+  caption: "마젠타투블랙전시전경 8 (Magenta to Black Exhibition View 8)"
   year: 1000
 
 - url: "assets/img/low_마젠타투블랙전시전경12.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타투블랙전시전경 12"
+  caption: "마젠타투블랙전시전경 12 (Magenta to Black Exhibition View 12)"
   year: 1000
 
 - url: "assets/img/low_마젠타투블랙전시전경13.jpg"
   alt: "Image 9 Description"
-  caption: "마젠타투블랙전시전경 13"
+  caption: "마젠타투블랙전시전경 13 (Magenta to Black Exhibition View 13)"
   year: 1000
 
 - url: "assets/img/만개한순간전경1.jpg"
   alt: "Image 9 Description"
-  caption: "만개한순간 1"
+  caption: "만개한순간 1 (The Moment of Full Bloom 1)"
   year: 1001
 
 - url: "assets/img/만개한순간전경2.jpg"
   alt: "Image 9 Description"
-  caption: "만개한순간 2"
+  caption: "만개한순간 2 (The Moment of Full Bloom 2)"
   year: 1001
 
 - url: "assets/img/만개한순간전경3.jpg"
   alt: "Image 9 Description"
-  caption: "만개한순간 3"
+  caption: "만개한순간 3 (The Moment of Full Bloom 3)"
   year: 1001
 
 - url: "assets/img/만개한순간전경4.jpg"
   alt: "Image 9 Description"
-  caption: "만개한순간 4"
+  caption: "만개한순간 4 (The Moment of Full Bloom 4)"
   year: 1001
-
-# Add more images as needed
