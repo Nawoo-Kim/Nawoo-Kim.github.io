@@ -32,10 +32,10 @@ social: false # includes social icons at the bottom of the page
 ## **Nawoo** Kim
 b. 1995. | Based in Seoul. | <a href="mailto:edronakim@gmail.com" style="color: black;">edronakim@gmail.com</a> | <a href="https://www.instagram.com/now__kim_" style="color: black;">@now__kim_</a>
 
-2023 MFA in Painting, Ewha Womans University, Seoul, KR
-2018 BFA in Painting, Ewha Womans University, Seoul, KR
-2014 Major in Painting, Seoul Arts High School, Seoul, KR
-Lecturer at Yewon School, Seoul, KR
+2023 MFA in Painting, Ewha Womans University, Seoul, KR  
+2018 BFA in Painting, Ewha Womans University, Seoul, KR  
+2014 Major in Painting, Seoul Arts High School, Seoul, KR  
+Lecturer at Yewon School, Seoul, KR  
 
 #### Solo Exhibitions  
 - 2024 《Magenta to Black》: Two-person exhibition, Nawoo Kim × Flâneur, GBLUE Gallery, Seoul, KR
