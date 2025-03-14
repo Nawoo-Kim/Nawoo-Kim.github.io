@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "만개한 순간"
-author: 김나우
+title: "The Moment in Full Bloom"
+author: Nawoo Kim
 date: 2023-08-01
-excerpt: 인간은 신체 경험을 통해 사유하고 감각한다. 김나우는 사물을 감각할 때, 여성으로서의 신체 경험을 투사할 때가 있다. 특히 조개껍데기의 조개 살을 담는 움푹 파인 형태에서는 자궁을, 꽃의 길게 뻗은 암술과 수술 형태에서는 인간의 생식기를 연상했다. 김나우는 이 이미지들로부터 유약한 존재임에도 뿜어내는 강한 생명력과 에너지를 느꼈다. 이러한 감상을 바탕으로 작품에서 조개껍데기와 꽃을 의인화의 대상으로 보거나 현실과는 다른 형태로 표현함으로써 박동하는 생명력을 형상화한다.
+excerpt: Humans contemplate and perceive through corporeal experiences. When sensing objects, Nawoo Kim at times projects her bodily experiences as a woman. Specifically, she envisioned the womb in the concave formation of a shell cradling its flesh, and human reproductive organs in the elongated pistils and stamens of blossoms. From these images, Nawoo Kim sensed a powerful vitality and energy radiating despite their inherent fragility. Drawing from these perceptions, she materializes pulsating life force in her works by either anthropomorphizing seashells and flowers or rendering them in forms that transcend reality.
 permalink: /text/fullbloom/
 categories: text
 ---
 
-#### Exhibition Text, 《만개한 순간》, 김나우, Aug. 2023
+#### Exhibition Text, 《The Moment in Full Bloom》, 김나우, Aug. 2023
 
 ---
 
-인간은 신체 경험을 통해 사유하고 감각한다. 김나우는 사물을 감각할 때, 여성으로서의 신체 경험을 투사할 때가 있다. 특히 조개껍데기의 조개 살을 담는 움푹 파인 형태에서는 자궁을, 꽃의 길게 뻗은 암술과 수술 형태에서는 인간의 생식기를 연상했다. 김나우는 이 이미지들로부터 유약한 존재임에도 뿜어내는 강한 생명력과 에너지를 느꼈다. 이러한 감상을 바탕으로 작품에서 조개껍데기와 꽃을 의인화의 대상으로 보거나 현실과는 다른 형태로 표현함으로써 박동하는 생명력을 형상화한다.
+Humans contemplate and perceive through corporeal experiences. When sensing objects, Nawoo Kim at times projects her bodily experiences as a woman. Specifically, she envisioned the womb in the concave formation of a shell cradling its flesh, and human reproductive organs in the elongated pistils and stamens of blossoms. From these images, Nawoo Kim sensed a powerful vitality and energy radiating despite their inherent fragility. Drawing from these perceptions, she materializes pulsating life force in her works by either anthropomorphizing seashells and flowers or rendering them in forms that transcend reality.
 
-김나우 회화의 주요 소재인 조개와 꽃은 유약한 존재로서 인간에 의해 소비되며, 식용으로써, 심미적으로써 기쁨을 주는 대상들이다. 그렇지만 각각은 독립된 존재로서 인고의 시간을 거쳐, 조개는 진주를 생성하기도 하고, 꽃은 떨어져 열매를 맺는다. 이들은 유약하고 유한한 존재이지만 가치 있는 다음 단계를 위해 생존한다. 김나우는 조개와 꽃에 어머니가 출산할 때 고통을 겪는 것 만큼의 의미를 투사한다고 할 수 있다. 한없이 유약하고 유한하다고 볼 수 있는 존재가 끝없는 생명의 고리를 잇는다. 인간과 다를 것 없이 조개와 꽃도 새로운 무엇인가를 생성하기 위해 고통을 겪으며 생(生)을 순환시킨다는 점에서 강인하다고 보았다. 김나우의 그림은 이렇듯 유약한 존재가 고통과 인내로 마침내 만개한 순간을 담는다. 화면 속 조개와 꽃은 환영적 이미지로서 만개한 생명력이 영속하는 초현실 공간을 구성한다. 김나우는 그려진 대상들이 회화 속에서 영원히 만개하기를 바라는 염원을 그림 속에 담는다. 
+Shells and flowers, the central motifs in Nawoo Kim's paintings, exist as vulnerable entities consumed by humanity, offering pleasure both gastronomically and aesthetically. Yet each maintains autonomous existence and, through intervals of endurance, shells occasionally manifest pearls, while flowers shed their petals to engender fruit. Though delicate and ephemeral, they persevere toward the precious subsequent phase. One might suggest that Nawoo Kim projects significance onto shells and flowers parallel to the suffering a mother endures during childbirth. Beings that might appear infinitely vulnerable and finite sustain the unbroken sequence of existence. She perceived them as resilient because, akin to humanity, shells and flowers also withstand suffering to generate novelty, thereby perpetuating the cycle of life. Nawoo Kim's canvases capture the moment when such fragile entities ultimately flourish through suffering and fortitude. The shells and flowers within her pictorial realm construct a surreal domain where blossoming vitality endures eternally as illusory imagery. Nawoo Kim imbues her paintings with the aspiration that the depicted subjects might eternally blossom within the artistic realm.
