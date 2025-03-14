@@ -8,7 +8,7 @@ permalink: /text/fullbloom/
 categories: text
 ---
 
-#### Exhibition Text, 《The Moment in Full Bloom》, 김나우, Aug. 2023
+#### Exhibition Text, 《The Moment in Full Bloom》, Nawoo Kim, Aug. 2023
 
 ---
 
