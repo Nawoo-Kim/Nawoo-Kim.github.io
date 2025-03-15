@@ -52,7 +52,7 @@ Former lecturer at Yewon School, Seoul, KR
 - 2019 《The Joy of Misreading》, SPACE 55, Seoul, KR
 
 ## **김나우**
-b. 1995 | 캘리포니아 및 서울 활동 | <a href="mailto:edronakim@gmail.com" style="color: black;">edronakim@gmail.com</a> | <a href="https://www.instagram.com/now__kim_" style="color: black;">@now__kim_</a>
+b. 1995 | 캘리포니아 ❁ 서울 활동 | <a href="mailto:edronakim@gmail.com" style="color: black;">edronakim@gmail.com</a> | <a href="https://www.instagram.com/now__kim_" style="color: black;">@now__kim_</a>
 
 2023 이화여자대학교 조형예술학부 서양화전공 일반대학원 석사 졸업  
 2018 이화여자대학교 조형예술학부 서양화전공 졸업  
