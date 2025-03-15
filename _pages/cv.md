@@ -35,13 +35,13 @@ b. 1995 | Based in California ❁ Seoul | <a href="mailto:edronakim@gmail.com" s
 2023 MFA, Painting, College of Fine Arts, Ewha Womans University, Seoul, KR  
 2018 BFA, Painting, College of Fine Arts, Ewha Womans University, Seoul, KR  
 2014 Major in Painting, Seoul Arts High School, Seoul, KR  
-Lecturer at Yewon School, Seoul, KR  
+Former lecturer at Yewon School, Seoul, KR  
 
 #### Solo Exhibitions  
 - 2024 《Magenta to Black》: Two-person exhibition, Nawoo Kim × Flâneur, GBLUE Gallery, Seoul, KR
 - 2023 《The Moment in Full Bloom》, WWW SPACE, Seoul, KR
 
-### Group Exhibitions
+#### Group Exhibitions
 - 2024 《Happy Birthday 2》, GBLUE Gallery, Seoul, KR  
 - 2024 《Vanilla Sky, Eternal Moments》: Three-person exhibition, K-Auction, Seoul, KR  
 - 2024 《Hong Sugye Art Support Project》: Yewon Miin Video Exhibition, Kangbuk Samsung Hospital, Seoul, KR  
